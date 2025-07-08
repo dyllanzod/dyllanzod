@@ -33,10 +33,10 @@ Currently focused on **web development**, **cloud computing**, and **open source
 
 ## 🌟 Pinned Projects
 
-[![Project 1](https://github.com/dyllanzod/Interactive-live-wallpaper.git)]: Live Interactive wallpaper.
-[![Project 2](https://github.com/dyllanzod/car-wash.git)]: A Car Wash Website where you can book for services.
-[![Project 3](https://github.com/dyllanzod/weather-app.git)]: Weather app that tell you the temperaur of the area.
-[![Project 4](https://github.com/dyllanzod/slideshow-images.git)]: A Slide show that can be used as a wallpaper.
+[![Interactive-live-wallpaper](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=Interactive-live-wallpaper)](https://github.com/dyllanzod/Interactive-live-wallpaper)
+[![Car-wash](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=car-wash)](https://github.com/dyllanzod/car-wash)
+[![Weather-app](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=weather-app)](https://github.com/dyllanzod/weather-app)
+[![Slideshow-images](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=slideshow-images)](https://github.com/dyllanzod/slideshow-images)
 
 <!--
 **dyllanzod/dyllanzod** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
