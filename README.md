@@ -13,7 +13,7 @@ Currently focused on **web development**, **cloud computing**, and **open source
 - 📫 How to reach me: [Email](mailto:dyllanmbuthia@.com) 
 - ⚡ Fun fact: I love playing chess and hiking!
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools 🛠️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
@@ -22,16 +22,16 @@ Currently focused on **web development**, **cloud computing**, and **open source
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 📈
 
 ![Dyllan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyllanzod&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyllanzod&layout=compact&theme=radical)
 
-## 🔥 Streak Stats
+## 🔥 Streak Stats 🔥
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dyllanzod&theme=radical)
 
-## 🌟 Pinned Projects
+## 🌟 Pinned Projects 🌟
 
 [![Interactive-live-wallpaper](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=Interactive-live-wallpaper)](https://github.com/dyllanzod/Interactive-live-wallpaper)
 [![Car-wash](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=car-wash)](https://github.com/dyllanzod/car-wash)
