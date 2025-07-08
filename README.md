@@ -33,8 +33,10 @@ Currently focused on **web development**, **cloud computing**, and **open source
 
 ## 🌟 Pinned Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=project1)](https://github.com/dyllanzod/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=project2)](https://github.com/dyllanzod/project2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=project1)](https://github.com/dyllanzod/Interactive-live-wallpaper.git)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=project2)](https://github.com/dyllanzod/car-wash.git)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=project1)](https://github.com/dyllanzod/weather-app.git)
+[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=project1)](https://github.com/dyllanzod/slideshow-images.git)
 
 <!--
 **dyllanzod/dyllanzod** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
