@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** with a love for building impactful solutions and learning new technologies.  
+I'm a passionate **Software Engineer** with a love for building impactful solutions and learning new technologies.  
 Currently focused on **web development**, **cloud computing**, and **open source**.
 
 - 🌱 I’m currently learning: Next.js, AWS, and TypeScript
