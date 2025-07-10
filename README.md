@@ -33,6 +33,7 @@ Currently focused on **web development**, **cloud computing**, and **open source
 [![Car-wash](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=car-wash)](https://github.com/dyllanzod/car-wash)
 [![Weather-app](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=weather-app)](https://github.com/dyllanzod/weather-app)
 [![Slideshow-images](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=slideshow-images)](https://github.com/dyllanzod/slideshow-images)
+[![3D Image Slider](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=slideshow-images)](https://github.com/dyllanzod/3D-image-slider.git)
 
 <!--
 **dyllanzod/dyllanzod** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
