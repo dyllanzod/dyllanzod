@@ -34,6 +34,7 @@ Currently focused on **web development**, **cloud computing**, and **open source
 [![Weather-app](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=weather-app)](https://github.com/dyllanzod/weather-app)
 [![Slideshow-images](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=slideshow-images)](https://github.com/dyllanzod/slideshow-images)
 [![3D Image Slider](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=3D-image-slider)](https://github.com/dyllanzod/3D-image-slider.git)
+[![Green Harvest](https://github-readme-stats.vercel.app/api/pin/?username=dyllanzod&repo=green-harvest)](https://github.com/dyllanzod/Green-Harvest.git)
 
 <!--
 **dyllanzod/dyllanzod** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
